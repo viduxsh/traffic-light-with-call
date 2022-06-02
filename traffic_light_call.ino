@@ -49,8 +49,8 @@ delay(250);
 digitalWrite(pedRed, HIGH);
 delay(500);
 
-digitalWrite(carYellow, HIGH); // yellow on
-digitalWrite(carRed, LOW); //
+digitalWrite(carYellow, HIGH);
+digitalWrite(carRed, LOW);
 delay(1000);
 
 digitalWrite(carGreen, HIGH);
